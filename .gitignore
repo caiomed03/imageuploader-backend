@@ -1,2 +1,7 @@
 __pycache__/*
 venv/*
+.env
+config.py
+
+*/__pycache__/*
+settings.json
