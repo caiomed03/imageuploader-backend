@@ -2,7 +2,6 @@ import os
 from fastapi import UploadFile
 import cloudinary
 import cloudinary.uploader
-import config
 import os
 
 cloudinary.config( 
